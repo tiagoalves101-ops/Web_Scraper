@@ -36,6 +36,10 @@ Copiar código
 
 ---
 
+📂 [Download Project File](https://github.com/tiagoalves101-ops/Web_Scraper/blob/main/creditcards.csv)
+
+---
+
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
